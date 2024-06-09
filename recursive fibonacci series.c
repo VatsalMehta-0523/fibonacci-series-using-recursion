@@ -10,6 +10,7 @@ int main(){
     for (int i=0 ; i < n ; i++){
         printf("%d\t", fib(i));         // this will print ith term in fibonacci series.
     }
+    
     return 0 ;
 }
 
